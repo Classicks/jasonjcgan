@@ -79,9 +79,10 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
+      strings: ["Jason Gan.", "a Designer.", "a Developer.", "a Fitness Enthusiast."],
       typeSpeed: 100,
       loop: true,
+      color: "black",
     });
   });
 
