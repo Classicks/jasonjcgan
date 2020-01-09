@@ -629,3 +629,9 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+
+/*--------------Extras-------------*/
+
+.center {
+  margin: auto
+}

@@ -79,10 +79,9 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Jason Gan.", "a Designer.", "a Developer.", "a Fitness Enthusiast."],
-      typeSpeed: 100,
+      strings: ["Jason Gan.", "a Developer.", "a Fitness Enthusiast."],
+      typeSpeed: 150,
       loop: true,
-      color: "black",
     });
   });
 
