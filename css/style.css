@@ -325,9 +325,10 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #services {
-  background: #f7f7f7;
+  background: transparent;
   position: relative;
   padding-bottom: 80px;
+  padding-top: 60px;
 }
 
 .owl-item {
@@ -394,6 +395,7 @@ nav ul li a {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
+  background: #f7f7f7;
 }
 
 #portfolio .portfolio-list {
